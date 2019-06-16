@@ -8,5 +8,5 @@ function logShout(string) {
   return string.mixedCase.toLowerCase()
 }
 function logShout(string) {
-  return string.mixedCase.toLowerCase()
+  return string.mixedCase.toUpperCase()
 }
